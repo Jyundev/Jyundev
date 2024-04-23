@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://jyundev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-F5F2F5?style=flat-square&logo=github&logoColor=404041"/></a>
+
+<img src="https://img.shields.io/badge/Java-AF99FF?style=flat-square&logo=JAVA&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-FFF7AB?style=flat-square&logo=Python&logoColor=768AFF"/>
+
+<img src="https://img.shields.io/badge/tableau-6394F7?style=flat-square&logo=Tableau&logoColor=6394F7"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
