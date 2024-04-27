@@ -23,7 +23,7 @@ icon : https://simpleicons.org/
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=100&section=header" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=80&section=header" style="width: 100%;">
 </div>
 
 <!-- Welcom+to++Jyundev+Github -->
@@ -109,6 +109,6 @@ icon : https://simpleicons.org/
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=100&section=footer" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6f3,100:faaca8&height=80&section=footer" style="width: 100%;">
 </div>
 
