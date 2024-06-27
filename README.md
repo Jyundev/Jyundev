@@ -29,8 +29,12 @@ icon : https://simpleicons.org/
 <!-- Welcom+to++Jyundev+Github -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=100A0B&background=E6E3DC3E&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%9C%A8+Welcom+to+Jyundev+Github+%E2%9C%A8;Data+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I'm+growing+everyday+%F0%9F%8C%B1" alt="Typing SVG" style="width: 100%;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=FF0C7C&background=E6E3DC3E&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%AD%90Hello!+I'm+YunYeong%E2%AD%90" alt="Typing SVG" style="width: 100%; " /></a>
 </div>
+
+<!--<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=100A0B&background=E6E3DC3E&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%9C%A8+Welcom+to+Jyundev+Github+%E2%9C%A8;Data+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I'm+growing+everyday+%F0%9F%8C%B1" alt="Typing SVG" style="width: 100%;" /></a>
+</div> -->
 
 <!-- Tech Stack -->
 
