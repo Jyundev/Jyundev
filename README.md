@@ -29,7 +29,7 @@ icon : https://simpleicons.org/
 <!-- Welcom+to++Jyundev+Github -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=FF0C7C&background=E6E3DC3E&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%AD%90Hello!+I'm+YunYeong%E2%AD%90" alt="Typing SVG" style="width: 100%; " /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&pause=1000&color=00035F&background=FF42AC00&center=true&vCenter=true&width=500&height=80&lines=Hello!+I'm+a+full-stack+developer+;Always+eager+to+learn+and+grow" alt="Typing SVG" /></a>
 </div>
 
 <!--<div align="center">
@@ -43,7 +43,10 @@ icon : https://simpleicons.org/
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />&nbsp
+
+  
 
 </div>
 
@@ -51,7 +54,9 @@ icon : https://simpleicons.org/
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/amazonec2-FF9900.svg?style=flat-square&logo=amazonec2&logoColor=black" />&nbsp
+
 </div>
 
 
@@ -60,15 +65,12 @@ icon : https://simpleicons.org/
 <h3 align="center">👩‍💻 Studying 👩‍💻</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" />&nbsp
-
-</div>
-<div align="center">
+  <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?style=flat-square&logo=amazonaws3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" />&nbsp
-  </div>
+</div>
+
 <br>
 <h3 align="center">🔗 Tools 🔗</h3>
 <div align="center">
